@@ -1,7 +1,10 @@
 # recipe-app-api
 Recipe API project
 
-## Run the project
+### Build the project
+`docker-compose build`
+
+### Run the project
 `docker-compose up`
 
 ### To run tests and linter:
